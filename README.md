@@ -1,4 +1,4 @@
-# Design kelas X SMK 🌿
+# Design kelas X SMK🌿
 
 > Kumpulan materi mata pelajaran design kelas [X TKJ](bg.md).
   Terimakasih guru [Desain](bg.md) sekaligus [Komputer Jaringan](bg.md) kami [Pak Rohman](bg.md)
@@ -17,5 +17,7 @@
 
  <b>Langkah pertama</b>
  - Nyalakan Komputer/Laptop
+ - Siapkan gambar yang ingin dihapus background nya
  - Buka software [Adobe Photoshop](db.md)
  - Jika sudah selanjutnya klik ``File`` / <kbd>ctrl</kbd><kbd>+</kbd><kbd>o</kbd>
+ - Setelah itu, pilih gambar yang ingin kamu edit. Atau kamu bisa melakukan dengan <b>Drag and Drop</b> gambar langsung ke aplikasi [Photoshop](a.md)
