@@ -12,3 +12,10 @@
 - [Menginstall sekaligus menggunakan font dari hasil download](bg.md)
 
 [@X-TKJ-1](kbd.md) :+1: Untuk saat ini menggunakan [Adobe Photoshop](Photoshop.md) - Selamat Belajar  :shipit:
+
+# Menghapus background 🍂
+
+ <b>Langkah pertama</b>
+ - Nyalakan Komputer/Laptop
+ - Buka software [Adobe Photoshop](db.md)
+ - Jika sudah selanjutnya klik ``File`` / <kbd>ctrl</kbd><kbd>+</kbd><kbd>o</kbd>
