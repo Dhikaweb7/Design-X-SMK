@@ -19,5 +19,8 @@
  - Nyalakan Komputer/Laptop
  - Siapkan gambar yang ingin dihapus background nya
  - Buka software [Adobe Photoshop](db.md)
- - Jika sudah selanjutnya klik ``File`` / <kbd>ctrl</kbd><kbd>+</kbd><kbd>o</kbd>
+ - Jika sudah selanjutnya klik ``File`` atau bisa menggunakan <kbd>ctrl</kbd><kbd>+</kbd><kbd>o</kbd>
+
+ ![Membuka-Gambar-di-Photoshop](https://user-images.githubusercontent.com/107765982/187202946-ab6c43aa-6bd5-4e4d-b589-e2d4cbdf1e8b.png)
+
  - Setelah itu, pilih gambar yang ingin kamu edit. Atau kamu bisa melakukan dengan <b>Drag and Drop</b> gambar langsung ke aplikasi [Photoshop](a.md)
