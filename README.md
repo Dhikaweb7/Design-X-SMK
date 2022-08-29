@@ -1,6 +1,6 @@
 # Design kelas X SMK 🌿
 
-> Kumpulan materi mata pelajaran design kelas X TKJ.
+> Kumpulan materi mata pelajaran design kelas [X TKJ](bg.md).
   Terimakasih guru [Desain](bg.md) sekaligus [Komputer Jaringan](bg.md) kami [Pak Rohman](bg.md)
 
 # Daftar isi 📚
