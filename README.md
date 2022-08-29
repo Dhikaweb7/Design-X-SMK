@@ -10,3 +10,5 @@
 - [Menambahkan text](bg.md)
 - [Menambahkan style ke text](bg.md)
 - [Menginstall sekaligus menggunakan font dari hasil download](bg.md)
+
+[@X-TKJ-1](kbd.md) :+1: Untuk saat ini menggunakan [Adobe Photoshop](Photoshop.md) - Selamat Belajar  :shipit:
