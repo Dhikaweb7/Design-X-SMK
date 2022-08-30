@@ -26,3 +26,9 @@
    klik [Move tools](kbd.md) lalu geser gambar ke background putih dengan cara :
    tahan touchpad sebelah kiri lalu geser menggunakan tangan kanan ke arah background putih.
  - Hilangkan Gembok di Layer
+ - Pilih [Polygonal lasso tools](pn.md) untuk seleksinya
+ - Setelah itu pilih atau seleksi objek yang ingin dihapus.
+  > Untuk menyeleksi bisa menggunakan klik satu kali lalu seret / ikuti kontur yang ingin dihapus. 
+    untuk berbelok bisa dengan klik satu kali lalu seret.
+ - Jika sudah seret ke titik awal menyeleksi.
+ - lalu kelik ``del``
