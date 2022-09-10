@@ -5,11 +5,12 @@
 
 # Daftar isi 📚
 
-- [Menghapus background](menghapusbackground.md)
+- [Menghapus background menggunakan <b>Polygonal Lasso Tools</b>](menghapusbackground.md)
 - [Menambahkan gambar](bg.md)
 - [Menambahkan text](bg.md)
 - [Menambahkan style ke text](bg.md)
 - [Menginstall sekaligus menggunakan font dari hasil download](bg.md)
+- [Menghapus Background menggunakan <b>Magic Wand Tools</b>](bg.md)
 
 [@X-TKJ-1](kbd.md) :+1: Untuk saat ini menggunakan [Adobe Photoshop](Photoshop.md) - Selamat Belajar  :shipit:
 
