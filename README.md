@@ -15,6 +15,9 @@
 [@X-TKJ-1](kbd.md) :+1: Untuk saat ini menggunakan [Adobe Photoshop](Photoshop.md) - Selamat Belajar  :shipit:
 
 # Menghapus background 🍂
+  <hr>
+
+  > Menggunakan <b>Polygonal Lasso Tools</b>
 
  - Nyalakan Komputer/Laptop
  - Siapkan gambar yang ingin dihapus background nya
