@@ -1,0 +1,20 @@
+.ungu {color:#7500e4;
+}
+
+.accordion {
+  background-color:black;
+  cursor: pointer;
+  padding: 1.5rem;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.5s;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
